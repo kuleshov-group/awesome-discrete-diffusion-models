@@ -44,7 +44,6 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
 * Think While You Generate: Discrete Diffusion with Planned Denoising, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.06264), [code](https://github.com/liusulin/DDPD)]
 * Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
-* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
 * DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models, ICLR 2023 [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
 * FiLM: Fill-in Language Models for Any-Order Generation, arXiv 2023 [[arXiv](https://arxiv.org/abs/2310.09930), [code](https://github.com/shentianxiao/FiLM)]
@@ -78,6 +77,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ### Custom Noise Processes  <a name="custom"></a>
 
 * DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL 2024 [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
+* DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * A Cheaper and Better Diffusion Language Model with Soft-Masked Noise, EMNLP 2023 [[arXiv](https://arxiv.org/abs/2304.04746), [code](https://github.com/amazon-science/masked-diffusion-lm)]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
