@@ -75,6 +75,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ### Custom Noise Processes  <a name="custom"></a>
 
 * DINOISER: Diffused Conditional Sequence Learning By Manipulating Noises, TACL 2024 [[arXiv](https://arxiv.org/abs/2302.10025), [code](https://github.com/yegcjs/DINOISER)]
+* A Cheaper and Better Diffusion Language Model with Soft-Masked Noise, EMNLP 2023 [[arXiv](https://arxiv.org/abs/2304.04746), [code](https://github.com/amazon-science/masked-diffusion-lm)]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Theory  <a name="theory"></a>
