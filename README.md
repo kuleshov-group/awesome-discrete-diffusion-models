@@ -67,6 +67,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ### Samplers  <a name="samplers"></a>
 * Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.21035)]
 * Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
+* Informed Correctors for Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2407.21243)]
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
