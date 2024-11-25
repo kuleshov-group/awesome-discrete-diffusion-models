@@ -88,6 +88,8 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
+* Diffusion Language Models Are Versatile Protein Learners, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.18567), [code](https://github.com/bytedance/dplm)]
+* DPLM-2: A Multimodal Diffusion Protein Language Model, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.13782)]
 * Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.13643), [code](https://github.com/ChenyuWang-Monica/DRAKES)]
 * Scaling Diffusion Language Models via Adaptation from Autoregressive Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.17891)]
 * Scaling up Masked Diffusion Models on Text, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.18514)]
