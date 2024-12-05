@@ -94,6 +94,8 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Scaling Diffusion Language Models via Adaptation from Autoregressive Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.17891)]
 * Scaling up Masked Diffusion Models on Text, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.18514)]
 * Likelihood-Based Diffusion Language Models, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.18619), [code](https://github.com/igul222/plaid)]
+* HouseDiffusion: Vector Floorplan Generation via a Diffusion Model
+with Discrete and Continuous Denoising, CVPR 2023 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.pdf)]
 * Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning, arXiv 2023 [[arXiv](https://arxiv.org/abs/2308.12219), [code](https://github.com/yegcjs/DiffusionLLM)]
 
 ### Surveys   <a name="surveys"></a>
