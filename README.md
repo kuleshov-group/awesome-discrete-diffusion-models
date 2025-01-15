@@ -71,6 +71,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
+* PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2412.17780)]
 * Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.08134)]
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.01572)]
 * Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009), [code](https://github.com/ngruver/NOS)]
