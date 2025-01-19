@@ -61,7 +61,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Continuous Diffusion for Categorical Data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
 
 ### Discrete Flows   <a name="flows"></a>
-* Discrete Flow Matching, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2407.15595)]
+* Discrete Flow Matching, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2407.15595), [code](https://github.com/facebookresearch/flow_matching)]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.04997)]
 
 ### Samplers  <a name="samplers"></a>
