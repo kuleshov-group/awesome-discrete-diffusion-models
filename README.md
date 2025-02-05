@@ -65,7 +65,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.04997)]
 
 ### Samplers  <a name="samplers"></a>
-* Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.21035)]
+* Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.21035), [code](https://github.com/jdeschena/sdtt)]
 * Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
 * Informed Correctors for Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2407.21243)]
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
