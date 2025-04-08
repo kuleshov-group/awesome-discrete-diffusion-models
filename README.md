@@ -21,6 +21,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
   * [Samplers](#samplers)
   * [Guidance Mechanisms](#guidance)
   * [Custom Noise Processes](#custom)
+  * [Inference Acceleration](#acceleration)
   * [Theory](#theory)
   * [Applications](#applications)
   * [Surveys](#surveys)
@@ -82,6 +83,9 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * A Cheaper and Better Diffusion Language Model with Soft-Masked Noise, EMNLP 2023 [[arXiv](https://arxiv.org/abs/2304.04746), [code](https://github.com/amazon-science/masked-diffusion-lm)]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
+
+### Inference Acceleration  <a name="acceleration"></a>
+* Di[M]O: Distilling Masked Diffusion Models into One-step Generator, Arxiv 2025 [[arXiv](https://arxiv.org/abs/2503.15457), [code](https://github.com/yuanzhi-zhu/DiMO)]
 
 ### Theory  <a name="theory"></a>
 * Discrete Copula Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.01949)]
