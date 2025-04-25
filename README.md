@@ -39,11 +39,12 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ## Papers  <a name="papers"></a>
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
+* Efficient Perplexity Bound and Ratio Matching in Discrete Diffusion Language Models, ICLR 2025 [[OpenReview](https://openreview.net/forum?id=Mri9WIfxSm), [code](https://github.com/MetaDialog-Research/PBRC)]
+* Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, ICLR 2025 [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
+* Think While You Generate: Discrete Diffusion with Planned Denoising, ICLR 2025 [[arXiv](https://arxiv.org/pdf/2410.06264), [code](https://github.com/liusulin/DDPD)]
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
-* Think While You Generate: Discrete Diffusion with Planned Denoising, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.06264), [code](https://github.com/liusulin/DDPD)]
-* Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.03736), [code](https://github.com/ML-GSAI/RADD)]
 * Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning, ICLR 2023  [[arXiv](https://arxiv.org/abs/2208.04202), [code](https://github.com/google-research/pix2seq)]
 * DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models, ICLR 2023 [[arXiv](https://arxiv.org/abs/2210.08933), [code](https://github.com/Shark-NLP/DiffuSeq)]
 * FiLM: Fill-in Language Models for Any-Order Generation, arXiv 2023 [[arXiv](https://arxiv.org/abs/2310.09930), [code](https://github.com/shentianxiao/FiLM)]
@@ -66,13 +67,14 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 
 ### Samplers  <a name="samplers"></a>
 * Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.21035), [code](https://github.com/jdeschena/sdtt)]
-* Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
-* Informed Correctors for Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2407.21243)]
+* Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, ICLR 2025 [[arXiv](https://arxiv.org/abs/2409.02908)]
+* Informed Correctors for Discrete Diffusion Models, ICLR 2025 [[arXiv](https://arxiv.org/pdf/2407.21243)]
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
 
 ### Guidance Mechanisms  <a name="guidance"></a>
+* Simple Guidance Mechanisms for Discrete Diffusion Models, ICLR 2025 [[arxiv](https://arxiv.org/abs/2412.10193), [code](https://github.com/kuleshov-group/discrete-diffusion-guidance)]
+* Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.08134)]
 * PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2412.17780)]
-* Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.08134)]
 * Unlocking Guidance for Discrete State-Space Diffusion and Flow Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2406.01572)]
 * Protein Design with Guided Discrete Diffusion, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2305.20009), [code](https://github.com/ngruver/NOS)]
 
@@ -89,6 +91,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
+* Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models, ICLR 2025 [[arxiv](https://arxiv.org/abs/2503.09573), [code](https://github.com/kuleshov-group/bd3lms)]
 * Diffusion Language Models Are Versatile Protein Learners, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.18567), [code](https://github.com/bytedance/dplm)]
 * DPLM-2: A Multimodal Diffusion Protein Language Model, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.13782)]
 * Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.13643), [code](https://github.com/ChenyuWang-Monica/DRAKES)]
