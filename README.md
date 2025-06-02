@@ -18,10 +18,10 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
   * [Discrete Diffusion with Discrete Noise](#discrete)
   * [Discrete Diffusion with Gaussian Noise](#gaussian)
   * [Discrete Flows](#flows)
+  * [Inference Acceleration](#acceleration)
   * [Samplers](#samplers)
   * [Guidance Mechanisms](#guidance)
   * [Custom Noise Processes](#custom)
-  * [Inference Acceleration](#acceleration)
   * [Theory](#theory)
   * [Applications](#applications)
   * [Surveys](#surveys)
@@ -61,12 +61,16 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Self-conditioned Embedding Diffusion for Text Generation, NeurIPS 2022 [[arXiv](https://arxiv.org/abs/2211.04236)]
 * Continuous Diffusion for Categorical Data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
 
+### Inference Acceleration  <a name="acceleration"></a>
+* The Diffusion Duality, ICML 2025 [[arXiv](https://s-sahoo.com/duo/), [code](https://github.com/s-sahoo/duo)]
+* Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.21035), [code](https://github.com/jdeschena/sdtt)]
+* Di[M]O: Distilling Masked Diffusion Models into One-step Generator, arXiv 2025 [[arXiv](https://arxiv.org/abs/2503.15457), [code](https://github.com/yuanzhi-zhu/DiMO)]
+
 ### Discrete Flows   <a name="flows"></a>
 * Discrete Flow Matching, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2407.15595), [code](https://github.com/facebookresearch/flow_matching)]
 * Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.04997)]
 
 ### Samplers  <a name="samplers"></a>
-* Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.21035), [code](https://github.com/jdeschena/sdtt)]
 * Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling, arXiv 2024 [[arXiv](https://arxiv.org/abs/2409.02908)]
 * Informed Correctors for Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2407.21243)]
 * Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.07761)]
@@ -83,9 +87,6 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * DiffusER: Discrete Diffusion via Edit-based Reconstruction, ICLR 2023  [[arXiv](https://arxiv.org/abs/2210.16886), [code](https://github.com/machelreid/diffuser)]
 * A Cheaper and Better Diffusion Language Model with Soft-Masked Noise, EMNLP 2023 [[arXiv](https://arxiv.org/abs/2304.04746), [code](https://github.com/amazon-science/masked-diffusion-lm)]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
-
-### Inference Acceleration  <a name="acceleration"></a>
-* Di[M]O: Distilling Masked Diffusion Models into One-step Generator, Arxiv 2025 [[arXiv](https://arxiv.org/abs/2503.15457), [code](https://github.com/yuanzhi-zhu/DiMO)]
 
 ### Theory  <a name="theory"></a>
 * Discrete Copula Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.01949)]
