@@ -41,7 +41,6 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ## Papers  <a name="papers"></a>
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
-* The Diffusion Duality, ICML 2025: [arXiv](https://arxiv.org/abs/2506.10892v1)
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
@@ -92,7 +91,6 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 
 ### Theory  <a name="theory"></a>
 * Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion, ICML 2025 [arXiv](https://arxiv.org/pdf/2504.16431)
-* Distillation of Discrete Diffusion through Dimensional Correlations, ICML 2025 [OpenReview](https://openreview.net/pdf?id=ibxO5X7kxc)
 * Discrete Copula Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.01949)]
 * Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886), [code](https://github.com/PangzeCheung/Discrete-Probability-Flow)]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
