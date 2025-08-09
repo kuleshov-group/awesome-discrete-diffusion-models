@@ -6,7 +6,7 @@ A curated list of awesome discrete diffusion models resources.
 
 ## Contribution
 
-This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang](https://isjakewong.github.io), and [Yair Schiff](https://yair-schiff.github.io/). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more papers! Papers must be added in a chronological sequence, with the most recent accepted papers taking precedence over unaccepted papers. Please use the following format: 
+This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang](https://isjakewong.github.io), [Yair Schiff](https://yair-schiff.github.io/), and [Alberto Tono](https://www.tono.ai). Feel free to send [pull requests](https://github.com/isjakewong/awesome-discrete-diffusion-models/pulls) to add more papers! Papers must be added in a chronological sequence, with the most recent accepted papers taking precedence over unaccepted papers. Please use the following format: 
 ```
 {paper-name}, {conference} {year} [[link-to-the-abstract-page], [code-if-available]]
 ```
@@ -25,6 +25,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
   * [Theory](#theory)
   * [Applications](#applications)
   * [Surveys](#surveys)
+  * [Education Video](#videos)
   
 ## Introductory Materials  <a name="introduction"></a>
 * Getting started with Diffusion Language Models, 2024.
@@ -40,6 +41,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ## Papers  <a name="papers"></a>
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
+* The Diffusion Duality, ICML 2025: [arXiv](https://arxiv.org/abs/2506.10892v1)
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
@@ -89,11 +91,16 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models, ACL 2023 [[arXiv](https://arxiv.org/abs/2211.15029), [code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Theory  <a name="theory"></a>
+* Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion, ICML 2025 [arXiv](https://arxiv.org/pdf/2504.16431)
+* Distillation of Discrete Diffusion through Dimensional Correlations, ICML 2025 [OpenReview](https://openreview.net/pdf?id=ibxO5X7kxc)
 * Discrete Copula Diffusion, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.01949)]
 * Formulating Discrete Probability Flow Through Optimal Transport, NeurIPS 2023 [[arXiv](https://arxiv.org/abs/2311.03886), [code](https://github.com/PangzeCheung/Discrete-Probability-Flow)]
 * Categorical SDEs with Simplex Diffusion, arXiv 2022  [[arXiv](https://arxiv.org/abs/2210.14784)]
 
 ### Applications  <a name="applications"></a>
+* GenMol: A Drug Discovery Generalist with Discrete Diffusion, ICML 2025 [arXiv](https://arxiv.org/pdf/2501.06158)
+* Simple and Critical Iterative Denoising: A Recasting of Discrete Diffusion in Graph Generation, ICML 2025 [[arXiv](https://arxiv.org/pdf/2503.21592v2), [code](https://github.com/yoboget/sid/?tab=readme-ov-file)]
+* SketchDNN: Joint Continuous-Discrete Diffusion for CAD Sketch Generation, ICML 2025 [arXiv](https://arxiv.org/abs/2507.11579)
 * Diffusion Language Models Are Versatile Protein Learners, ICML 2024 [[arXiv](https://arxiv.org/abs/2402.18567), [code](https://github.com/bytedance/dplm)]
 * DPLM-2: A Multimodal Diffusion Protein Language Model, arXiv 2024 [[arXiv](https://arxiv.org/abs/2410.13782)]
 * Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design, arXiv 2024 [[arXiv](https://arxiv.org/pdf/2410.13643), [code](https://github.com/ChenyuWang-Monica/DRAKES)]
@@ -108,3 +115,6 @@ with Discrete and Continuous Denoising, CVPR 2023 [[CVPR 2023](https://openacces
 
 * Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
 * A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
+
+### Educational Videos  <a name="videos"></a>
+* But how do language diffusion models actually work? [Youtube](https://www.youtube.com/watch?v=8BTOoc0yDVA)
