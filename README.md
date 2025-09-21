@@ -108,3 +108,4 @@ with Discrete and Continuous Denoising, CVPR 2023 [[CVPR 2023](https://openacces
 
 * Diffusion Models for Non-autoregressive Text Generation: A Survey, IJCAI 2023 Survey Track [[arXiv](https://arxiv.org/abs/2303.06574)]
 * A Survey of Diffusion Models in Natural Language Processing, arXiv 2023 [[arXiv](https://arxiv.org/abs/2305.14671)]
+* Discrete Diffusion in Large Language and Multimodal Models: A Survey, arXiv 2025 [[arXiv](https://arxiv.org/abs/2506.13759)]
