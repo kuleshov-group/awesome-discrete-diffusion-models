@@ -40,7 +40,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 ## Papers  <a name="papers"></a>
 
 ### Discrete Diffusion with Discrete Noise   <a name="discrete"></a>
-* Unifying Autoregressive and Diffusion-Based Sequence Generation, COLM 2025 [[arXiv]](https://arxiv.org/abs/2504.06416), [code](https://github.com/servicenow/hdlm)
+* Unifying Autoregressive and Diffusion-Based Sequence Generation, COLM 2025 [[arXiv](https://arxiv.org/abs/2504.06416), [code](https://github.com/servicenow/hdlm)]
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.07524), [code](https://github.com/kuleshov-group/mdlm)]
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024 [[arXiv](https://arxiv.org/abs/2406.04329)]
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[arXiv](https://arxiv.org/abs/2310.16834), [code](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)]
