@@ -62,6 +62,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
 * Continuous Diffusion for Categorical Data, arXiv 2022  [[arXiv](https://arxiv.org/abs/2211.15089)]
 
 ### Inference Acceleration  <a name="acceleration"></a>
+- **Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference** (2026) [[arXiv](https://arxiv.org/abs/2606.02955)] [[Code](https://github.com/Ringo-Star/FastdLLM_plusplus)] [[Project Page](https://ringo-star.github.io/projectpage_frechet/)]
 * The Diffusion Duality, ICML 2025 [[arXiv](https://s-sahoo.com/duo/), [code](https://github.com/s-sahoo/duo)]
 * Beyond Autoregression: Fast LLMs via Self-Distillation Through Time, ICLR 2025 [[arXiv](https://arxiv.org/abs/2410.21035), [code](https://github.com/jdeschena/sdtt)]
 * Di[M]O: Distilling Masked Diffusion Models into One-step Generator, arXiv 2025 [[arXiv](https://arxiv.org/abs/2503.15457), [code](https://github.com/yuanzhi-zhu/DiMO)]
