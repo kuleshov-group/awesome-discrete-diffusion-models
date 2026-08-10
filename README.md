@@ -27,6 +27,7 @@ This repo is maintained by [Subham Sahoo](https://s-sahoo.com/), [Yingheng Wang]
   * [Surveys](#surveys)
   
 ## Introductory Materials  <a name="introduction"></a>
+* DiffusionGemma Explained, 2026 [[URL](https://mlberkeley.substack.com/p/the-annotated-diffusiongemma)]
 * Getting started with Diffusion Language Models, 2024.
 <p align="center">
   <a href="https://youtu.be/WjAUX23vgfg?si=bM1E-Bt-nwOmsVif" title="Click">
